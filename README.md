@@ -7,11 +7,11 @@ A quick summary is provided below. See the PDF for a complete version.
 
 ## 📑 Contents
 
-- [Discrete Distributions](#Discrete-Distributions)
-- [Continuous Distributions](#Continuous-Distributions)
-- [Quick Reference Table](#Quick-Reference-Table)
+- [Discrete Distributions](#discrete-distributions)
+- [Continuous Distributions](#continuous-distributions)
+- [Quick Reference Table](#quick-reference-table)
 
-## 🎲 Discrete Distributions
+## Discrete Distributions
 
 ### 1. Bernoulli Distribution
 **Single trial with two outcomes: success (1) or failure (0)**
@@ -117,7 +117,7 @@ A quick summary is provided below. See the PDF for a complete version.
 
 ---
 
-## 📈 Continuous Distributions
+## Continuous Distributions
 
 ### 8. Uniform (Rectangular) Distribution
 **Constant probability density over [a, b]**
@@ -284,7 +284,7 @@ A quick summary is provided below. See the PDF for a complete version.
 
 ---
 
-## 📊 Quick Reference Table
+## Quick Reference Table
 
 | Distribution | Type | Expectation | Variance |
 |--------------|------|-------------|----------|
